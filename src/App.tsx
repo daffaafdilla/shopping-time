@@ -123,7 +123,7 @@ function App() {
                 
                 <div className="mt-8 border-t border-gray-700 pt-8">
                   <p className="text-sm text-gray-300">
-                    &copy; 2025 HorizonShop. All rights reserved.
+                    &copy; 2025 Daffa Afdilla. All rights reserved.
                   </p>
                 </div>
               </div>
