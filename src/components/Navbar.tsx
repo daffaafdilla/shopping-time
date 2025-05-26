@@ -41,8 +41,8 @@ const Navbar: React.FC<NavbarProps> = ({ onNavigate, currentPage }) => {
               className="flex-shrink-0 flex items-center cursor-pointer"
               onClick={() => handleNavigation('home')}
             >
-              <span className="text-2xl font-bold text-[#4E6688]">Horizon</span>
-              <span className="text-2xl font-bold text-[#FF9B45]">Shop</span>
+              <span className="text-2xl font-bold text-[#4E6688]">Shopping</span>
+              <span className="text-2xl font-bold text-[#FF9B45]">Time</span>
             </div>
             
             {/* Desktop Navigation */}
