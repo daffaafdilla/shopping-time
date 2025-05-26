@@ -45,8 +45,8 @@ function App() {
                 <div className="md:flex md:justify-between">
                   <div className="mb-8 md:mb-0">
                     <div className="flex items-center">
-                      <span className="text-2xl font-bold">Horizon</span>
-                      <span className="text-2xl font-bold text-[#FF9B45]">Shop</span>
+                      <span className="text-2xl font-bold">Shopping</span>
+                      <span className="text-2xl font-bold text-[#FF9B45]">Time</span>
                     </div>
                     <p className="mt-2 text-sm text-gray-300">
                       Premium products for your lifestyle.
